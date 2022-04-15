@@ -62,7 +62,7 @@
     // << first test.in
   
   ### Windows
-    g++ FILE.cpp -o FILE.exe
+    g++ FILE.cpp -o FILE
     start FILE.exe
     // << first test.in
 Параллельно фиксируются ошибки, время и вывод программы.
